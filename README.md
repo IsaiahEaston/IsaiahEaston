@@ -38,4 +38,4 @@ Currently working across **TypeScript, Rust, React, Tauri, and Node.js**.
 
 If you're interested in local-first tools, practical AI systems, or building your own software ecosystem, you'll probably find something familiar here.
 
-[Explore Orion AI Systems](https://github.com/OrionAISystems) · [Browse my repositories](https://github.com/SiphrCodez?tab=repositories)
+[Explore Orion AI Systems](https://github.com/OrionAISystems) · [Browse my repositories](https://github.com/IsaiahEaston?tab=repositories)
