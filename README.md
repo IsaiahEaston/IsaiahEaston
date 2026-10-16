@@ -1,42 +1,41 @@
-# Met / SiphrCodez
+# Isaiah Easton
 
-Full-stack product builder focused on shipping developer tools, experimental systems, and reusable software.
+Independent builder behind [Orion AI Systems](https://github.com/OrionAISystems). I build tools to solve friction in my own work, keep control of my tools and data, and make AI useful across the projects I care about.
 
-I like building things that are practical, extensible, and a little ambitious, especially when they sit at the intersection of product thinking, infrastructure, and emerging AI workflows.
+Most of my time goes into building Orion, maintaining Lyra, and developing Pyxsis, alongside the developer tooling that supports that ecosystem. I use AI throughout the building process, with a focus on clear architecture, thoughtful interfaces, and software I can maintain and keep improving.
 
-## Current Focus
+## What I'm building
 
-- Building reusable TypeScript packages and internal-grade developer tooling
-- Exploring product-oriented systems that combine clean DX with long-term maintainability
-- Shipping projects that can grow from experiments into real platforms
-- Working across backend logic, tooling layers, and full-stack product surfaces
+### Orion · Private, in development
 
-## Featured Work
+A local-first AI operating system for managing complex, long-running work. It brings context, memory, retrieval, planning, review, and execution into one system, so projects can build on what came before.
 
-### [BetterLogs](https://github.com/SiphrCodez/BetterLogs)
+Orion is my main ongoing build. It's private for now; I'd like to explore open-sourcing it as it develops.
 
-A polished TypeScript logging package for Node.js and browser projects with scoped loggers, structured metadata, durable transport options, redaction helpers, and a clean developer-first API.
+### [Lyra](https://github.com/OrionAISystems/Lyra-Releases) · Available for Windows
 
-### [NewTokenizer](https://github.com/SiphrCodez/NewTokenizer)
+A dictation app that stays close to the work: record with a shortcut, transcribe locally with optional cloud fallback, and insert the text into the app you're using. Built to make speaking a practical part of everyday computer use.
 
-A tokenizer-focused project that reflects my interest in language tooling, parsing systems, and lower-level developer infrastructure.
+[Download Lyra](https://github.com/OrionAISystems/Lyra-Releases/releases/latest)
 
-More experiments, packages, and in-progress builds live across the rest of my repositories as I keep iterating.
+### [Pyxsis](https://github.com/OrionAISystems/Pyxsis) · Open source · Windows
 
-## Stack & Interests
+A lightweight screenshot and screen recording tool for people and agents. A desktop interface handles everyday capture, while a standalone CLI lets agents and scripts use the same capture core. Captures stay on your computer.
 
-`TypeScript` `Node.js` `Python` `developer tooling` `full-stack product development` `AI systems` `infrastructure-minded software`
+[Explore the source](https://github.com/OrionAISystems/Pyxsis) · [Download Pyxsis](https://github.com/OrionAISystems/Pyxsis/releases/latest)
 
-## GitHub Signals
+### [BetterLogs](https://github.com/OrionAISystems/BetterLogs) · Developer tooling
 
-- [View my GitHub profile](https://github.com/SiphrCodez)
-- [Browse my public repositories](https://github.com/SiphrCodez?tab=repositories)
-- [See what I'm shipping right now in BetterLogs](https://github.com/SiphrCodez/BetterLogs)
-- [Explore language and tokenizer work in NewTokenizer](https://github.com/SiphrCodez/NewTokenizer)
+A TypeScript logging package for Node.js and browser projects, with scoped loggers, structured metadata, transports, and redaction helpers. Part of the supporting tooling I build around the ecosystem.
 
-## Connect
+## How I approach the work
 
-- Email: [siphrcodez@gmail.com](mailto:siphrcodez@gmail.com)
-- Discord: `notmet`
+I want these projects to fit together while remaining useful on their own. The direction is local-first software, deliberate connections between tools, and AI workflows that carry useful context across projects.
 
-If you're building something interesting, working on developer tooling, or just want to connect with another builder, feel free to reach out.
+I care about the whole product: the underlying architecture, the small interactions, and what it takes to keep the software working over time. A lot of the work starts with something I need myself, then grows into something other people can use too.
+
+Currently working across **TypeScript, Rust, React, Tauri, and Node.js**.
+
+If you're interested in local-first tools, practical AI systems, or building your own software ecosystem, you'll probably find something familiar here.
+
+[Explore Orion AI Systems](https://github.com/OrionAISystems) · [Browse my repositories](https://github.com/SiphrCodez?tab=repositories)
