@@ -12,7 +12,7 @@ A local-first AI operating system for managing complex, long-running work. It br
 
 Orion is my main ongoing build. It's private for now; I'd like to explore open-sourcing it as it develops.
 
-### [Open Source](https://github.com/OrionAISystems/Lyra) · [Available for Windows](https://github.com/OrionAISystems/Lyra-Releases)
+### [Open Source](https://github.com/OrionAISystems/Lyra) · [Windows Releases](https://github.com/OrionAISystems/Lyra-Releases)
 
 A dictation app that stays close to the work: record with a shortcut, transcribe locally with optional cloud fallback, and insert the text into the app you're using. Built to make speaking a practical part of everyday computer use.
 
